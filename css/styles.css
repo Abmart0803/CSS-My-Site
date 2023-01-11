@@ -61,19 +61,16 @@ h3 {
 }
 
 .skill-img {
-  width: 5p%;
+  width: 25%;
   float: left;
   margin-right: 50px;
 }
 
 .skill-img2 {
-  width: 15p%;
+  width: 25%;
   float: right;
   margin-left: 50px;
 }
-/* .skill-description {
-  clear: left;
-} */
 
 .contact-message {
   width: 40%;
