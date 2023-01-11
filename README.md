@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="about-project"></a>
+# 📖 [CSS MY SITE] <a name="about-project"></a>
 
 > 
 
