@@ -1,4 +1,4 @@
-alert("Hello User, Click OK to Continue");
+// alert("Hello User, Click OK to Continue");
 // document.querySelector("h1").innerHTML="I am a skillful Web Developer";
 // document.querySelectorAll("h3")[1].style.color="red";
 document.querySelector("h1").style.color="red";
