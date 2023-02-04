@@ -163,3 +163,13 @@ h3 {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+.invisible {
+  visibility: hidden;
+}
+
+.huge {
+  font-size: 10rem;
+  color: red;
+  
+}
